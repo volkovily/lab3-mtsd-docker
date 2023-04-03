@@ -1,0 +1,23 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "lab3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volkovily/lab3-mtsd-docker.git"
+  },
+  "author": "Volkov Illia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/volkovily/lab3-mtsd-docker/issues"
+  },
+  "homepage": "https://github.com/volkovily/lab3-mtsd-docker#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "moment": "^2.29.4"
+  }
+}
